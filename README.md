@@ -1,4 +1,4 @@
 mother
 ======
 
-Your mom. No pull requests, please! (Your mother doesn't pull.)
+Your mom. No pull requests, please! (Your mom doesn't pull.)
